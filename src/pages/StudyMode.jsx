@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { ArrowLeft, ArrowRight, Flag, Check, X, ChevronLeft } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion, AnimatePresence, useMotionValue, useAnimation } from 'framer-motion';
 import useStore from '../store/useStore';
 import { questions, questionCategories } from '../data/questions';
 
@@ -25,6 +25,10 @@ export default function StudyMode() {
   const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [showExplanation, setShowExplanation] = useState(false);
   const [results, setResults] = useState([]);
+
+  // Swipe controls
+  const x = useMotionValue(0);
+  const controls = useAnimation();
 
   // Filter questions when section/category changes
   useEffect(() => {
@@ -67,6 +71,21 @@ export default function StudyMode() {
       setShowExplanation(false);
     }
   }, [currentIndex]);
+
+  // Handle drag/swipe for question navigation
+  const handleDragEnd = useCallback((event, info) => {
+    const swipeThreshold = 50;
+
+    if (info.offset.x < -swipeThreshold && showExplanation) {
+      // Swipe left - next question (only if answered)
+      handleNext();
+    } else if (info.offset.x > swipeThreshold) {
+      // Swipe right - previous question
+      handlePrevious();
+    }
+
+    controls.start({ x: 0 });
+  }, [showExplanation, controls, handleNext, handlePrevious]);
 
   // Keyboard navigation
   useEffect(() => {
@@ -285,15 +304,28 @@ export default function StudyMode() {
         />
       </div>
 
-      {/* Question Card */}
-      <AnimatePresence mode="wait">
-        <motion.div
-          key={currentQuestion.id}
-          initial={{ opacity: 0, x: 20 }}
-          animate={{ opacity: 1, x: 0 }}
-          exit={{ opacity: 0, x: -20 }}
-          className="card"
-        >
+      {/* Swipe Hint */}
+      <p className="text-xs text-center text-text-secondary">
+        Swipe left for next • Swipe right for previous
+      </p>
+
+      {/* Question Card - Draggable */}
+      <motion.div
+        drag="x"
+        dragConstraints={{ left: 0, right: 0 }}
+        dragElastic={0.2}
+        onDragEnd={handleDragEnd}
+        animate={controls}
+        style={{ x }}
+      >
+        <AnimatePresence mode="wait">
+          <motion.div
+            key={currentQuestion.id}
+            initial={{ opacity: 0, x: 20 }}
+            animate={{ opacity: 1, x: 0 }}
+            exit={{ opacity: 0, x: -20 }}
+            className="card"
+          >
           {/* Category Badge */}
           <span className="inline-block text-xs px-2 py-1 rounded-full bg-primary/20 text-text-primary mb-4">
             {currentQuestion.category}
@@ -377,6 +409,7 @@ export default function StudyMode() {
           </AnimatePresence>
         </motion.div>
       </AnimatePresence>
+    </motion.div>
 
       {/* Navigation */}
       <div className="flex items-center justify-between pt-4">

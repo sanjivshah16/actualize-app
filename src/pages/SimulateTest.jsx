@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Clock, Flag, ChevronLeft, ChevronRight, AlertCircle } from 'lucide-react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion, AnimatePresence, useMotionValue, useAnimation } from 'framer-motion';
 import useStore from '../store/useStore';
 import { questions, exams, timingConfig } from '../data/questions';
 
@@ -27,6 +27,25 @@ export default function SimulateTest() {
   const [flagged, setFlagged] = useState([]);
   const [timeRemaining, setTimeRemaining] = useState(0);
   const [testStarted, setTestStarted] = useState(false);
+
+  // Swipe controls
+  const x = useMotionValue(0);
+  const controls = useAnimation();
+
+  // Handle drag/swipe for question navigation
+  const handleDragEnd = useCallback((event, info) => {
+    const swipeThreshold = 50;
+
+    if (info.offset.x < -swipeThreshold) {
+      // Swipe left - next question
+      setCurrentIndex((i) => Math.min(testQuestions.length - 1, i + 1));
+    } else if (info.offset.x > swipeThreshold) {
+      // Swipe right - previous question
+      setCurrentIndex((i) => Math.max(0, i - 1));
+    }
+
+    controls.start({ x: 0 });
+  }, [testQuestions.length, controls]);
 
   // Get timing based on test type
   const getTiming = useCallback(() => {
@@ -279,8 +298,21 @@ export default function SimulateTest() {
           </div>
         </div>
 
-        {/* Question */}
-        <div className="card">
+        {/* Swipe Hint */}
+        <p className="text-xs text-center text-text-secondary">
+          Swipe left for next • Swipe right for previous
+        </p>
+
+        {/* Question - Draggable */}
+        <motion.div
+          drag="x"
+          dragConstraints={{ left: 0, right: 0 }}
+          dragElastic={0.2}
+          onDragEnd={handleDragEnd}
+          animate={controls}
+          style={{ x }}
+        >
+          <div className="card">
           <span className="inline-block text-xs px-2 py-1 rounded-full bg-surface border border-border-inner mb-3">
             {currentQuestion.section} - {currentQuestion.category}
           </span>
@@ -308,6 +340,7 @@ export default function SimulateTest() {
             ))}
           </div>
         </div>
+      </motion.div>
 
         {/* Navigation */}
         <div className="flex items-center justify-between">
