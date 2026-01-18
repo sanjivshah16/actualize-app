@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Tourney:wght@300;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Lato', sans-serif;
+  }
+
+  body {
+    @apply bg-background text-text-primary;
+    margin: 0;
+    min-height: 100vh;
+    min-width: 320px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  /* Dark mode colors */
+  .dark body {
+    @apply bg-[#1a1a1a] text-[#E8E4DF];
+  }
+
+  .dark .bg-background {
+    background-color: #1a1a1a;
+  }
+
+  .dark .bg-surface {
+    background-color: #2d2d2d;
+  }
+
+  .dark .border-border,
+  .dark .border-black {
+    border-color: #404040;
+  }
+
+  .dark .border-border-inner {
+    border-color: #555555;
+  }
+
+  .dark .text-text-primary {
+    color: #E8E4DF;
+  }
+
+  .dark .text-text-secondary {
+    color: #9CA3AF;
+  }
+
+  .dark .card {
+    @apply bg-[#2d2d2d] border-[#404040];
+  }
+
+  .dark input,
+  .dark select {
+    @apply bg-[#2d2d2d] border-[#404040] text-[#E8E4DF];
+  }
+
+  #root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@layer components {
+  /* Main card - black thin border for larger boxes */
+  .card {
+    @apply bg-surface border border-black rounded-xl p-4;
+  }
+
+  /* Inner card - 60% gray border for nested elements */
+  .card-inner {
+    @apply bg-surface border border-border-inner rounded-lg p-3;
+  }
+
+  /* Pill/tag styling - 60% gray border */
+  .pill {
+    @apply px-3 py-1 rounded-full text-sm border border-border-inner;
+  }
+
+  .btn {
+    @apply px-4 py-3 rounded-lg font-medium transition-all duration-200 active:scale-[0.98];
+  }
+
+  .btn-primary {
+    @apply bg-primary text-white hover:bg-primary-dark;
+  }
+
+  .btn-outline {
+    @apply border border-border-inner bg-surface hover:bg-gray-100;
+  }
+
+  .tab-active {
+    @apply text-text-primary border-b-2 border-primary;
+  }
+
+  .tab-inactive {
+    @apply text-text-secondary hover:text-text-primary;
+  }
+
+  .progress-bar {
+    @apply h-2 bg-gray-200 rounded-full overflow-hidden;
+  }
+
+  .progress-fill {
+    @apply h-full bg-primary transition-all duration-500 ease-out;
+  }
+
+  /* App title styling */
+  .app-title {
+    font-family: 'Tourney', sans-serif;
+    letter-spacing: 0.05em;
+  }
+
+  .app-title-bold {
+    font-weight: 900;
+  }
+
+  .app-title-light {
+    font-weight: 300;
+  }
+}
+
+/* Custom animations */
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes flipIn {
+  from {
+    transform: rotateY(90deg);
+  }
+  to {
+    transform: rotateY(0deg);
+  }
+}
+
+.animate-slide-in {
+  animation: slideIn 0.3s ease-out;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+.animate-flip-in {
+  animation: flipIn 0.4s ease-out;
+  transform-style: preserve-3d;
+}
+
+/* Flashcard 3D flip */
+.flashcard {
+  perspective: 1000px;
+}
+
+.flashcard-inner {
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.flashcard-inner.flipped {
+  transform: rotateY(180deg);
+}
+
+.flashcard-front,
+.flashcard-back {
+  backface-visibility: hidden;
+  position: absolute;
+  inset: 0;
+}
+
+.flashcard-back {
+  transform: rotateY(180deg);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #eaac8b;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #355070;
+}
