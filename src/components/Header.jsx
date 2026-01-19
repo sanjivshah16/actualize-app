@@ -12,7 +12,7 @@ export default function Header() {
         <Link to="/" className="flex items-center gap-1">
           <h1 className="app-title text-4xl tracking-wider">
             <span className="app-title-bold">ACT</span>
-            <span className="app-title-light">UALIZE</span>
+            <span className="app-title-light">UALIZER</span>
           </h1>
         </Link>
 
