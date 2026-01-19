@@ -2,6 +2,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { ChevronLeft, Clock, FileText, Bookmark } from 'lucide-react';
 import { motion } from 'framer-motion';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { resources } from '../data/resources';
 
 const sectionColors = {
@@ -85,6 +86,7 @@ export default function ResourceView() {
       >
         <div className="resource-content">
           <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
             components={{
               h1: ({ children }) => (
                 <h1 className="text-2xl font-bold mt-6 mb-4 first:mt-0">

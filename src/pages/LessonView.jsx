@@ -2,6 +2,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { ChevronLeft, Clock, Check, BookOpen } from 'lucide-react';
 import { motion } from 'framer-motion';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import useStore from '../store/useStore';
 import { lessons } from '../data/lessons';
 
@@ -71,6 +72,7 @@ export default function LessonView() {
       >
         <div className="lesson-content">
           <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
             components={{
               h1: ({ children }) => (
                 <h1 className="text-2xl font-bold mt-6 mb-4 first:mt-0">

@@ -1,0 +1,386 @@
+{
+  "lessons": [
+    {
+      "id": "w1d1",
+      "week": 1,
+      "day": 1,
+      "title": "English General Strategy",
+      "section": "english",
+      "duration": 30,
+      "content": "\n# ACT English: General Strategy\n\n## Overview\nThe ACT English section tests your knowledge of standard written English, including grammar, punctuation, and rhetorical skills.\n\n**Enhanced ACT (2025+):** 50 questions in 35 minutes\n**Legacy ACT:** 75 questions in 45 minutes\n\n## The Two Categories\n\n### Category 1: Grammar & Mechanics (60-70%)\n- Comma usage\n- Subject-verb agreement\n- Pronoun agreement\n- Punctuation\n- Sentence structure\n\n### Category 2 & 3: Rhetorical Skills (30-40%)\n- **Cat 2 (Edit for Meaning):** Word choice, transitions, sentence placement\n- **Cat 3 (Comment for Meaning):** Author's purpose, adding/deleting content\n\n## Key Strategies\n\n### 1. Read the Full Sentence\nAlways read the entire sentence containing the underlined portion. Context is crucial.\n\n### 2. Economy Rule\n**Shorter is usually better** on the ACT—but check for:\n- Agreement errors\n- Missing essential meaning\n- Clarity issues\n\n### 3. NO CHANGE is Valid\nAbout 25% of answers are \"NO CHANGE.\" Don't be afraid to select it if the original is correct.\n\n### 4. Trust Your Ear (Sometimes)\nIf something sounds wrong, it often is. But verify with rules—your ear can be tricked!\n    "
+    },
+    {
+      "id": "w1d2",
+      "week": 1,
+      "day": 2,
+      "title": "Math Formulas Overview",
+      "section": "math",
+      "duration": 45,
+      "content": "\n# Essential ACT Math Formulas\n\n## Algebra\n\n### Linear Equations\n- Slope: m = (y₂ - y₁) / (x₂ - x₁)\n- Slope-intercept form: y = mx + b\n- Point-slope form: y - y₁ = m(x - x₁)\n\n### Quadratic Equations\n- Standard form: ax² + bx + c = 0\n- Quadratic formula: x = (-b ± √(b² - 4ac)) / 2a\n- Vertex form: y = a(x - h)² + k, vertex at (h, k)\n\n## Geometry\n\n### Triangles\n- Area = (1/2) × base × height\n- Pythagorean Theorem: a² + b² = c²\n- Sum of angles = 180°\n\n### Circles\n- Area = πr²\n- Circumference = 2πr = πd\n- Arc length = (θ/360°) × 2πr\n\n### Volume\n- Cylinder: V = πr²h\n- Rectangular prism: V = lwh\n- Cone: V = (1/3)πr²h\n\n## Trigonometry (SOHCAHTOA)\n- sin(θ) = Opposite / Hypotenuse\n- cos(θ) = Adjacent / Hypotenuse\n- tan(θ) = Opposite / Adjacent\n\n## Statistics\n- Mean = Sum of values / Number of values\n- Median = Middle value (when ordered)\n- Mode = Most frequent value\n    "
+    },
+    {
+      "id": "w1d3",
+      "week": 1,
+      "day": 3,
+      "title": "Reading General Strategy",
+      "section": "reading",
+      "duration": 30,
+      "content": "\n# ACT Reading: General Strategy\n\n## Section Overview\n**Enhanced ACT:** 36 questions, 40 minutes (~1 min per question)\n**Legacy ACT:** 40 questions, 35 minutes (~52 sec per question)\n\n4 passages: Prose Fiction/Literary Narrative, Social Science, Humanities, Natural Science\n\n## Reading Strategy Options\n\n### Option 1: Read Then Answer\n1. Read passage carefully (3-4 minutes)\n2. Answer questions (4-5 minutes)\n**Best for:** Strong readers who retain information\n\n### Option 2: Skim Then Answer\n1. Skim for main ideas (2 minutes)\n2. Return to passage for specific questions\n**Best for:** Slower readers, detail-oriented questions\n\n### Option 3: Questions First\n1. Read questions first\n2. Search passage for answers\n**Best for:** Very fast scanners\n\n## Question Attack Strategy\n\n### Line Numbers First\nWhen a question references specific lines, go there IMMEDIATELY.\n\n### Elimination is Key\nWrong answers are often:\n- Too extreme\n- Not supported by text\n- Only partially correct\n- From wrong part of passage\n\n### General > Specific\nFor main idea questions, avoid overly specific answers.\n\n### Positive > Negative\nWhen in doubt, prefer positive/neutral tone over negative.\n    "
+    },
+    {
+      "id": "w1d4",
+      "week": 1,
+      "day": 4,
+      "title": "Science General Strategy",
+      "section": "science",
+      "duration": 30,
+      "content": "\n# ACT Science: General Strategy\n\n## Section Overview\n**Enhanced ACT:** 40 questions, 40 minutes (optional for composite)\n**Legacy ACT:** 40 questions, 35 minutes\n\n6-7 passages with tables, graphs, and experiments\n\n## The Truth About ACT Science\n\n**You don't need to know science!**\n\nACT Science is really a reading comprehension test disguised as science. You're tested on:\n- Interpreting data in tables and graphs\n- Understanding experimental design\n- Analyzing conflicting viewpoints\n\n## Question Categories\n\n### 1. Data Questions (40-50%)\nFind specific values in tables/graphs.\n- \"According to Figure 1...\"\n- Go directly to the data source\n\n### 2. Bridge Questions (25-35%)\nCombine information from multiple sources.\n- \"Based on Table 1 AND Figure 2...\"\n- Identify the linking variable\n\n### 3. Big Picture Questions (10-15%)\nRequire understanding the overall experiment.\n- \"Which hypothesis is supported?\"\n- Understand the experimental setup\n\n## Key Strategies\n\n### Don't Read the Passage First\nSkip the intro paragraphs. Go straight to:\n1. Questions\n2. Figures/Tables\n3. Only read text when needed\n\n### Label Your Variables\nWrite what each axis/column represents.\n\n### Trends Over Values\nFocus on patterns: increasing, decreasing, no change.\n    "
+    },
+    {
+      "id": "w1d5",
+      "week": 1,
+      "day": 5,
+      "title": "Comma Rules Deep Dive",
+      "section": "english",
+      "duration": 35,
+      "content": "\n# Mastering Comma Questions\n\nComma questions make up 15-20% of the English section. Master these rules!\n\n## Rule 1: FANBOYS (Compound Sentences)\nUse a comma before FANBOYS when joining two independent clauses.\n\n**For, And, Nor, But, Or, Yet, So**\n\n✓ \"I studied hard, and I passed the test.\"\n✗ \"I studied hard, and passed the test.\" (no comma—\"passed\" isn't a clause)\n\n## Rule 2: Introductory Elements\nUse a comma after introductory words, phrases, or clauses.\n\n✓ \"However, the plan failed.\"\n✓ \"After the long meeting, everyone was tired.\"\n✓ \"Running to catch the bus, she dropped her phone.\"\n\n## Rule 3: Nonessential Clauses\nSet off nonessential (nonrestrictive) information with commas.\n\n**The Bracket Test:** Can you remove it without losing essential meaning?\n\n✓ \"My brother, who lives in Texas, is visiting.\" (nonessential—which brother is clear)\n✗ \"People who live in glass houses shouldn't throw stones.\" (essential—defines which people)\n\n## Rule 4: Lists\nUse commas between three or more items. ACT uses the Oxford comma.\n\n✓ \"I bought apples, oranges, and bananas.\"\n\n## Rule 5: Coordinate Adjectives\nUse commas between adjectives that could be joined by \"and.\"\n\n✓ \"The tall, dark stranger\" (tall AND dark works)\n✗ \"The old brick house\" (old AND brick doesn't work naturally)\n\n## The D&I Test\nTest if a comma creates a **D**ependent + **I**ndependent split:\n- Before the comma: Can it stand alone?\n- After the comma: Can it stand alone?\n- If BOTH can → comma + FANBOYS or semicolon\n- If only ONE can → no comma (usually)\n    "
+    },
+    {
+      "id": "w2d1",
+      "week": 2,
+      "day": 1,
+      "title": "Geometry Foundations",
+      "section": "math",
+      "duration": 40,
+      "content": "\n# ACT Math: Geometry\n\nGeometry questions make up about 20-25% of the ACT Math section.\n\n## Triangles\n\n### Key Properties\n- Sum of interior angles = 180°\n- Exterior angle = Sum of non-adjacent interior angles\n- Longest side is opposite the largest angle\n\n### Special Triangles\n**30-60-90:** sides in ratio 1 : √3 : 2\n**45-45-90:** sides in ratio 1 : 1 : √2\n\n### Pythagorean Triples\nMemorize these common ratios:\n- 3-4-5 (and multiples: 6-8-10, 9-12-15)\n- 5-12-13\n- 8-15-17\n- 7-24-25\n\n## Circles\n\n### Key Formulas\n- Area = πr²\n- Circumference = 2πr = πd\n- Arc length = (θ/360°) × 2πr\n- Sector area = (θ/360°) × πr²\n\n### Circle Theorems\n- Inscribed angle = (1/2) central angle\n- Tangent line is perpendicular to radius at point of tangency\n- Two tangents from same external point are equal\n\n## Coordinate Geometry\n\n### Distance Formula\nd = √[(x₂ - x₁)² + (y₂ - y₁)²]\n\n### Midpoint Formula\nM = ((x₁ + x₂)/2, (y₁ + y₂)/2)\n\n### Parallel & Perpendicular Lines\n- Parallel lines have SAME slope\n- Perpendicular lines have NEGATIVE RECIPROCAL slopes (m × m₂ = -1)\n    "
+    },
+    {
+      "id": "w2d2",
+      "week": 2,
+      "day": 2,
+      "title": "English Magic Tricks",
+      "section": "english",
+      "duration": 30,
+      "content": "\n# English Section: Magic Tricks\n\nThese patterns appear repeatedly on the ACT. Learn them!\n\n## 1. The Dash Rule\nDashes come in PAIRS unless at the end of a sentence.\n\n✓ \"The dog—a golden retriever—ran away.\"\n✓ \"She finally arrived—exhausted but happy.\"\n\n**Test:** If you see one dash mid-sentence, look for its pair. If there's no pair, the answer is likely wrong.\n\n## 2. The 3-and-1 Rule\nWhen 3 answers share a feature and 1 is different, the different one is often correct.\n\n**Example:**\nA) quickly and efficiently moving\nB) moving quickly and efficiently\nC) moving with quickness and efficiency\nD) moving efficiently and quickly\n\nThree options start with \"moving\" → Choose a different structure (A)\n\n## 3. The DELETE Rule\nWhen \"DELETE the underlined portion\" is an option, give it serious consideration.\n\n**DELETE is often correct when:**\n- The underlined portion is redundant\n- It repeats information already stated\n- The sentence works perfectly without it\n\n## 4. The Who/Whom Rule\n- WHO = subject (he, she, they)\n- WHOM = object (him, her, them)\n\n**Quick Test:** Substitute he/him:\n- \"Who/Whom wrote this?\" → \"He wrote this\" → WHO\n- \"To who/whom should I send this?\" → \"Send to him\" → WHOM\n\n## 5. The Colon Rule\nColons require a complete sentence BEFORE them.\n\n✓ \"I need three things: paper, pen, and patience.\"\n✗ \"I need: paper, pen, and patience.\"\n    "
+    },
+    {
+      "id": "w2d3",
+      "week": 2,
+      "day": 3,
+      "title": "Category 2 Questions",
+      "section": "english",
+      "duration": 35,
+      "content": "\n# Category 2: Edit for Meaning Questions (EMQs)\n\nCategory 2 questions test your ability to improve the effectiveness of writing.\n\n## Question Types\n\n### 1. Transition Questions\nChoose the word/phrase that best connects ideas.\n\n**Strategy:**\n1. Determine the relationship (contrast? addition? cause-effect?)\n2. Eliminate options that don't match\n3. Choose the most precise transition\n\n**Relationships:**\n- Contrast: however, nevertheless, although, despite\n- Addition: furthermore, moreover, also, additionally\n- Cause-Effect: therefore, consequently, thus, as a result\n\n### 2. Word Choice Questions\nSelect the most appropriate word for context.\n\n**Consider:**\n- Tone (formal vs. casual)\n- Precision (vague vs. specific)\n- Connotation (positive vs. negative)\n\n### 3. Sentence Placement Questions\n\"For the sake of logic, Sentence X should be placed...\"\n\n**Strategy:**\n1. Read the sentence carefully\n2. Identify transition words or references\n3. Find where it logically fits (after what it references)\n\n### 4. NOT/EXCEPT Questions\n\"All of the following would be acceptable EXCEPT...\"\n\n**Strategy:**\n1. Test each answer individually\n2. Mark answers as ✓ (acceptable) or ✗ (not acceptable)\n3. The EXCEPT answer is the one that doesn't work\n\n**Tip:** These questions often test comma rules or word choice.\n    "
+    },
+    {
+      "id": "w3d1",
+      "week": 3,
+      "day": 1,
+      "title": "Agreement Rules",
+      "section": "english",
+      "duration": 35,
+      "content": "\n# Agreement Rules\n\nAgreement errors are among the most common on the ACT.\n\n## Subject-Verb Agreement\n\n### Rule 1: Ignore Prepositional Phrases\nThe subject is NEVER in a prepositional phrase.\n\n✓ \"The box of chocolates IS delicious.\" (box is singular)\n✓ \"The students in the class ARE working.\" (students is plural)\n\n**Common prepositions:** of, in, with, at, by, from, to, for, on, between, among\n\n### Rule 2: Compound Subjects\n- Subjects joined by AND = plural verb\n- Subjects joined by OR/NOR = verb agrees with closer subject\n\n✓ \"The dog and cat ARE playing.\"\n✓ \"Neither the teacher nor the students WERE ready.\"\n\n### Rule 3: Indefinite Pronouns\n\n**Always Singular:**\neach, every, either, neither, anyone, everyone, someone, nobody, nothing, one\n\n✓ \"Everyone HAS finished.\"\n✓ \"Each of the students HAS a book.\"\n\n**Always Plural:**\nboth, few, many, several\n\n**Can Be Either:**\nall, any, most, none, some (depends on what they refer to)\n\n## Pronoun-Antecedent Agreement\n\n### Rule 1: Pronouns must match their antecedent in number\n✓ \"Each student should bring HIS OR HER book.\"\n✗ \"Each student should bring THEIR book.\" (traditionally incorrect on ACT)\n\n### Rule 2: Collective nouns are singular\n✓ \"The team celebrated ITS victory.\"\n✓ \"The committee made ITS decision.\"\n    "
+    },
+    {
+      "id": "w3d2",
+      "week": 3,
+      "day": 2,
+      "title": "Functions",
+      "section": "math",
+      "duration": 40,
+      "content": "\n# ACT Math: Functions\n\nFunctions appear frequently on the ACT. Master these concepts!\n\n## Function Basics\n\n### Notation\nf(x) = 2x + 3 means: substitute the input for x\n\nf(5) = 2(5) + 3 = 13\nf(a) = 2a + 3\nf(x+1) = 2(x+1) + 3 = 2x + 5\n\n### Domain and Range\n- **Domain:** All possible INPUT values (x)\n- **Range:** All possible OUTPUT values (y)\n\n**Common domain restrictions:**\n- Can't divide by zero\n- Can't take square root of negative\n- Can't take log of non-positive\n\n## Function Operations\n\n### Composition: (f ∘ g)(x) = f(g(x))\nWork from inside out!\n\nIf f(x) = 2x and g(x) = x + 3:\n(f ∘ g)(5) = f(g(5)) = f(8) = 16\n\n### Inverse Functions: f⁻¹(x)\nThe inverse \"undoes\" the function.\n\nIf f(x) = 2x + 3, find f⁻¹(x):\n1. Replace f(x) with y: y = 2x + 3\n2. Swap x and y: x = 2y + 3\n3. Solve for y: y = (x - 3)/2\n4. f⁻¹(x) = (x - 3)/2\n\n## Transformations\n\nFor f(x):\n- f(x) + k: shifts UP by k\n- f(x) - k: shifts DOWN by k\n- f(x + h): shifts LEFT by h\n- f(x - h): shifts RIGHT by h\n- -f(x): reflects over x-axis\n- f(-x): reflects over y-axis\n- af(x): vertical stretch by a\n- f(ax): horizontal compression by a\n    "
+    },
+    {
+      "id": "w3d3",
+      "week": 3,
+      "day": 3,
+      "title": "Mock Test Preparation",
+      "section": "general",
+      "duration": 20,
+      "content": "\n# Preparing for Your First Mock Test\n\n## Why Take Mock Tests?\n\n1. **Build Stamina:** The real ACT is long (2+ hours). Practice helps build endurance.\n2. **Identify Weaknesses:** See which sections and question types need work.\n3. **Develop Timing:** Learn to pace yourself under real conditions.\n4. **Reduce Anxiety:** Familiarity breeds confidence.\n\n## Mock Test Guidelines\n\n### Before the Test\n- Get a good night's sleep\n- Eat a healthy breakfast\n- Gather materials: pencils, calculator, timer\n- Find a quiet space\n- Turn off your phone\n\n### During the Test\n- Simulate real conditions\n- Use official timing\n- Don't pause between sections (except for scheduled breaks)\n- Bubble your answers on an answer sheet\n\n### After the Test\n- Score your test\n- Review EVERY wrong answer\n- Identify patterns in your mistakes\n- Create a study plan based on results\n\n## Timing Reminders\n\n### Enhanced ACT\n| Section | Questions | Time |\n|---------|-----------|------|\n| English | 50 | 35 min |\n| Math | 45 | 50 min |\n| Reading | 36 | 40 min |\n| Science | 40 | 40 min |\n\n### Legacy ACT\n| Section | Questions | Time |\n|---------|-----------|------|\n| English | 75 | 45 min |\n| Math | 60 | 60 min |\n| Reading | 40 | 35 min |\n| Science | 40 | 35 min |\n    "
+    },
+    {
+      "id": "w4d1",
+      "week": 4,
+      "day": 1,
+      "title": "Reading: The Step Method",
+      "section": "reading",
+      "duration": 35,
+      "content": "\n# The Step Method for ACT Reading\n\nA systematic approach to maximize accuracy and efficiency.\n\n## The 5 Steps\n\n### Step 1: Preview the Passage (30 seconds)\n- Read the blurb (introduction text)\n- Note the passage type (Fiction, Social Science, etc.)\n- Glance at paragraph structure\n\n### Step 2: Read Actively (3-4 minutes)\n- Underline key points\n- Note author's tone\n- Mark transitions and main ideas\n- Don't get stuck on difficult parts\n\n### Step 3: Attack Line-Number Questions First\n- These have clear locations\n- Go to the line BEFORE and AFTER for context\n- Avoid answer traps\n\n### Step 4: Answer Main Idea Questions Last\n- Need full passage understanding\n- Eliminate too-narrow or too-broad answers\n- Should reflect the whole passage, not just parts\n\n### Step 5: Eliminate Strategically\nFor each answer, ask:\n- Is this supported by the text?\n- Is this too extreme?\n- Does this answer the actual question?\n\n## Common Traps to Avoid\n\n### The \"Extreme\" Trap\nWords like \"always,\" \"never,\" \"all,\" \"none\" are usually wrong.\n**Prefer:** \"often,\" \"sometimes,\" \"may,\" \"might\"\n\n### The \"Partially True\" Trap\nAn answer that's half right is WRONG.\n\n### The \"Wrong Location\" Trap\nInformation is in the passage—but doesn't answer THIS question.\n\n### The \"Same Words\" Trap\nUses words from the passage but distorts the meaning.\n    "
+    },
+    {
+      "id": "w4d2",
+      "week": 4,
+      "day": 2,
+      "title": "Science Question Categories",
+      "section": "science",
+      "duration": 35,
+      "content": "\n# ACT Science: Question Categories\n\nUnderstanding question types helps you answer faster and more accurately.\n\n## Category 1: Data Questions (40-50%)\n\n### What They Ask\n\"According to Figure 1...\"\n\"Based on Table 2...\"\n\"What was the value when X = 10?\"\n\n### Strategy\n1. Identify the figure/table mentioned\n2. Locate the specific data point\n3. Read the answer directly from the data\n4. Don't overthink!\n\n**Common Mistakes:**\n- Reading the wrong axis\n- Misreading units\n- Looking at wrong figure\n\n## Category 2: Bridge Questions (25-35%)\n\n### What They Ask\n\"Based on Figure 1 AND Table 2...\"\n\"According to the results of both experiments...\"\n\n### Strategy\n1. Find the linking variable between sources\n2. Use Figure 1 to get one value\n3. Use that value in Table 2 to find your answer\n\n**Example:**\nFigure 1 shows temperature vs. time\nTable 2 shows enzyme activity vs. temperature\nQuestion asks: \"At time = 5 min, what is enzyme activity?\"\n→ Use Figure 1 to find temp at 5 min\n→ Use that temp in Table 2 to find activity\n\n## Category 3: Experimental Design (10-15%)\n\n### What They Ask\n\"Why did scientists control X?\"\n\"What was the purpose of Trial 3?\"\n\"Which hypothesis is supported?\"\n\n### Strategy\n1. Understand the experimental setup\n2. Identify independent, dependent, and controlled variables\n3. Think about what the scientist was testing\n\n## Category 4: Prior Knowledge (5-10%)\n\n### What They Ask\nQuestions requiring basic science knowledge\n\n### Topics to Know\n- Basic chemistry (pH, atoms, molecules)\n- Basic physics (force, energy, waves)\n- Basic biology (cells, genetics, evolution)\n- Lab safety and procedures\n    "
+    },
+    {
+      "id": "w4d3",
+      "week": 4,
+      "day": 3,
+      "title": "Math Strategies",
+      "section": "math",
+      "duration": 40,
+      "content": "\n# ACT Math: Strategic Approaches\n\nLearn when and how to use these powerful strategies.\n\n## Strategy 1: Plugging In Numbers (PIN)\n\n### When to Use\n- Variables in answer choices\n- \"General\" questions about relationships\n- Word problems with unknowns\n\n### How to Use\n1. Choose simple numbers (2, 3, 5, 10)\n2. Avoid 0, 1, and numbers in the problem\n3. Plug into the question\n4. Calculate your target answer\n5. Plug into each answer choice\n6. Find the match\n\n**Example:**\nIf x is an even integer, which must be odd?\nA) x + 2  B) 2x  C) x²  D) x + 1\n\nLet x = 2:\nA) 4 (even)  B) 4 (even)  C) 4 (even)  D) 3 (odd) ✓\n\n## Strategy 2: Backsolving\n\n### When to Use\n- Numerical answer choices\n- Question asks for a specific value\n- Algebra looks complicated\n\n### How to Use\n1. Start with choice B or C (middle values)\n2. Plug the answer into the problem\n3. Check if it works\n4. If not, determine if you need higher or lower\n\n**Example:**\nIf 3x + 7 = 22, what is x?\nA) 3  B) 5  C) 7  D) 9\n\nTry B) x = 5: 3(5) + 7 = 22 ✓\n\n## Strategy 3: Eyeballing (for Geometry)\n\n### When to Use\n- Diagrams drawn to scale\n- Questions about length, area, or angle estimates\n\n### How to Use\n1. Compare unknown to known values\n2. Eliminate obviously wrong answers\n3. Make educated estimates\n\n## Strategy 4: The Calculator\n\n### Know Your Calculator\n- Solve equations directly\n- Graph functions\n- Find intersections\n- Calculate statistics\n    "
+    },
+    {
+      "id": "w5d1",
+      "week": 5,
+      "day": 1,
+      "title": "Advanced Science Skills",
+      "section": "science",
+      "duration": 40,
+      "content": "\n# Advanced Science: Conflicting Viewpoints\n\nThese passages present multiple hypotheses or viewpoints.\n\n## Understanding the Format\n\n### Structure\n- Introduction: Background information\n- Scientist 1/Student 1: First viewpoint\n- Scientist 2/Student 2: Opposing viewpoint\n- Sometimes 3+ viewpoints\n\n### Key Differences from Data Passages\n- More reading required\n- Focus on understanding arguments\n- Questions compare and contrast viewpoints\n\n## Attack Strategy\n\n### Step 1: Read the Introduction\nUnderstand what question is being debated.\n\n### Step 2: Summarize Each Viewpoint\nAfter reading each viewpoint, write 1 sentence:\n\"Scientist 1 believes ___ because ___\"\n\"Scientist 2 believes ___ because ___\"\n\n### Step 3: Identify Key Differences\nWhat do they disagree about?\n- The cause of something?\n- The interpretation of data?\n- The predicted outcome?\n\n### Step 4: Answer Viewpoint-Specific Questions First\n\"According to Scientist 1...\"\nThese are straightforward—just find the information.\n\n### Step 5: Tackle Comparison Questions\n\"Both scientists would agree...\"\n\"Scientist 1, but NOT Scientist 2, would...\"\n\n## Common Question Types\n\n### Agreement Questions\nFind common ground between viewpoints.\n\n### New Information Questions\n\"If new evidence showed X, how would it affect...?\"\nThink about what each scientist would say.\n\n### Weakness Questions\n\"Which finding would weaken Scientist 2's argument?\"\nLook for contradictions to their main claim.\n    "
+    },
+    {
+      "id": "w6d1",
+      "week": 6,
+      "day": 1,
+      "title": "English Speed Drills",
+      "section": "english",
+      "duration": 30,
+      "content": "\n# Speed Strategies for English\n\nMaster these techniques to move faster through the English section.\n\n## Timing Goals\n\n### Enhanced ACT\n- 35 minutes for 50 questions\n- ~40 seconds per question\n- ~7 minutes per passage\n\n### Legacy ACT\n- 45 minutes for 75 questions\n- ~36 seconds per question\n- ~9 minutes per passage\n\n## Speed Techniques\n\n### 1. Read Efficiently\n- Don't read every word in unchanged portions\n- Focus on underlined sections and surrounding context\n- Move quickly through easy questions\n\n### 2. Recognize Patterns Instantly\nTrain yourself to immediately identify:\n- Comma questions\n- Agreement questions\n- Wordiness issues\n- Transition problems\n\n### 3. Use Process of Elimination\nFor every question:\n1. Eliminate obviously wrong answers (10 seconds)\n2. Compare remaining choices (10 seconds)\n3. Select best answer (5 seconds)\n\n### 4. Don't Second-Guess\n- Trust your first instinct\n- Only change answers with good reason\n- Move on quickly\n\n### 5. Skip and Return\n- Don't spend more than 1 minute on any question\n- Mark difficult questions\n- Return if time permits\n\n## Common Time Wasters\n\n- Re-reading passages unnecessarily\n- Overthinking simple questions\n- Changing answers without reason\n- Getting stuck on one question\n    "
+    },
+    {
+      "id": "w7d1",
+      "week": 7,
+      "day": 1,
+      "title": "Advanced Math Skills",
+      "section": "math",
+      "duration": 45,
+      "content": "\n# Advanced ACT Math Topics\n\nThese topics appear on harder questions (50-60).\n\n## Complex Numbers\n\n### Basics\ni = √(-1)\ni² = -1\ni³ = -i\ni⁴ = 1 (then pattern repeats)\n\n### Finding Powers of i\nDivide exponent by 4, use remainder:\n- Remainder 0: i^n = 1\n- Remainder 1: i^n = i\n- Remainder 2: i^n = -1\n- Remainder 3: i^n = -i\n\n### Operations\n(a + bi) + (c + di) = (a+c) + (b+d)i\n(a + bi)(c + di) = (ac-bd) + (ad+bc)i\n\n## Matrices\n\n### Addition/Subtraction\nAdd corresponding elements (matrices must be same size)\n\n### Multiplication\nRow × Column\n[a b][e f]   [ae+bg  af+bh]\n[c d][g h] = [ce+dg  cf+dh]\n\n### Determinant (2×2)\n|a b|\n|c d| = ad - bc\n\n## Logarithms\n\n### Definition\nlog_a(x) = y means a^y = x\n\n### Properties\n- log(xy) = log(x) + log(y)\n- log(x/y) = log(x) - log(y)\n- log(x^n) = n·log(x)\n- log_a(a) = 1\n- log_a(1) = 0\n\n## Sequences & Series\n\n### Arithmetic\n- nth term: a_n = a_1 + (n-1)d\n- Sum: S_n = n(a_1 + a_n)/2\n\n### Geometric\n- nth term: a_n = a_1 × r^(n-1)\n- Sum: S_n = a_1(1 - r^n)/(1 - r)\n    "
+    },
+    {
+      "id": "w8d1",
+      "week": 8,
+      "day": 1,
+      "title": "Final Review: English",
+      "section": "english",
+      "duration": 30,
+      "content": "\n# English Section: Final Review\n\n## Quick Reference: Top Rules\n\n### Commas\n1. FANBOYS between independent clauses\n2. After introductory elements\n3. Around nonessential clauses\n4. Between items in a list\n5. Between coordinate adjectives\n\n### Agreement\n1. Subject-verb (ignore prepositional phrases)\n2. Pronoun-antecedent (number match)\n3. Tense consistency\n\n### Punctuation\n1. Semicolons join independent clauses\n2. Colons require complete sentence before\n3. Apostrophes: possession vs. contraction\n\n### Word Choice\n1. Economy: shorter is usually better\n2. Precision: specific > vague\n3. Tone: match the passage style\n\n## Final Tips\n\n### Day Before\n- Review flashcards\n- Light practice only\n- Get good sleep\n\n### Test Day\n- Read carefully but efficiently\n- Trust your preparation\n- Don't panic on hard questions\n- Review if time permits\n\n### Mindset\n- You've prepared well\n- You know the strategies\n- Stay confident and focused\n    "
+    }
+  ],
+  "curriculum": [
+    {
+      "week": 1,
+      "theme": "Foundations",
+      "description": "Build core strategies for all sections",
+      "days": [
+        {
+          "id": "w1d1",
+          "week": 1,
+          "day": 1,
+          "title": "English General Strategy",
+          "section": "english",
+          "duration": 30,
+          "content": "\n# ACT English: General Strategy\n\n## Overview\nThe ACT English section tests your knowledge of standard written English, including grammar, punctuation, and rhetorical skills.\n\n**Enhanced ACT (2025+):** 50 questions in 35 minutes\n**Legacy ACT:** 75 questions in 45 minutes\n\n## The Two Categories\n\n### Category 1: Grammar & Mechanics (60-70%)\n- Comma usage\n- Subject-verb agreement\n- Pronoun agreement\n- Punctuation\n- Sentence structure\n\n### Category 2 & 3: Rhetorical Skills (30-40%)\n- **Cat 2 (Edit for Meaning):** Word choice, transitions, sentence placement\n- **Cat 3 (Comment for Meaning):** Author's purpose, adding/deleting content\n\n## Key Strategies\n\n### 1. Read the Full Sentence\nAlways read the entire sentence containing the underlined portion. Context is crucial.\n\n### 2. Economy Rule\n**Shorter is usually better** on the ACT—but check for:\n- Agreement errors\n- Missing essential meaning\n- Clarity issues\n\n### 3. NO CHANGE is Valid\nAbout 25% of answers are \"NO CHANGE.\" Don't be afraid to select it if the original is correct.\n\n### 4. Trust Your Ear (Sometimes)\nIf something sounds wrong, it often is. But verify with rules—your ear can be tricked!\n    "
+        },
+        {
+          "id": "w1d2",
+          "week": 1,
+          "day": 2,
+          "title": "Math Formulas Overview",
+          "section": "math",
+          "duration": 45,
+          "content": "\n# Essential ACT Math Formulas\n\n## Algebra\n\n### Linear Equations\n- Slope: m = (y₂ - y₁) / (x₂ - x₁)\n- Slope-intercept form: y = mx + b\n- Point-slope form: y - y₁ = m(x - x₁)\n\n### Quadratic Equations\n- Standard form: ax² + bx + c = 0\n- Quadratic formula: x = (-b ± √(b² - 4ac)) / 2a\n- Vertex form: y = a(x - h)² + k, vertex at (h, k)\n\n## Geometry\n\n### Triangles\n- Area = (1/2) × base × height\n- Pythagorean Theorem: a² + b² = c²\n- Sum of angles = 180°\n\n### Circles\n- Area = πr²\n- Circumference = 2πr = πd\n- Arc length = (θ/360°) × 2πr\n\n### Volume\n- Cylinder: V = πr²h\n- Rectangular prism: V = lwh\n- Cone: V = (1/3)πr²h\n\n## Trigonometry (SOHCAHTOA)\n- sin(θ) = Opposite / Hypotenuse\n- cos(θ) = Adjacent / Hypotenuse\n- tan(θ) = Opposite / Adjacent\n\n## Statistics\n- Mean = Sum of values / Number of values\n- Median = Middle value (when ordered)\n- Mode = Most frequent value\n    "
+        },
+        {
+          "id": "w1d3",
+          "week": 1,
+          "day": 3,
+          "title": "Reading General Strategy",
+          "section": "reading",
+          "duration": 30,
+          "content": "\n# ACT Reading: General Strategy\n\n## Section Overview\n**Enhanced ACT:** 36 questions, 40 minutes (~1 min per question)\n**Legacy ACT:** 40 questions, 35 minutes (~52 sec per question)\n\n4 passages: Prose Fiction/Literary Narrative, Social Science, Humanities, Natural Science\n\n## Reading Strategy Options\n\n### Option 1: Read Then Answer\n1. Read passage carefully (3-4 minutes)\n2. Answer questions (4-5 minutes)\n**Best for:** Strong readers who retain information\n\n### Option 2: Skim Then Answer\n1. Skim for main ideas (2 minutes)\n2. Return to passage for specific questions\n**Best for:** Slower readers, detail-oriented questions\n\n### Option 3: Questions First\n1. Read questions first\n2. Search passage for answers\n**Best for:** Very fast scanners\n\n## Question Attack Strategy\n\n### Line Numbers First\nWhen a question references specific lines, go there IMMEDIATELY.\n\n### Elimination is Key\nWrong answers are often:\n- Too extreme\n- Not supported by text\n- Only partially correct\n- From wrong part of passage\n\n### General > Specific\nFor main idea questions, avoid overly specific answers.\n\n### Positive > Negative\nWhen in doubt, prefer positive/neutral tone over negative.\n    "
+        },
+        {
+          "id": "w1d4",
+          "week": 1,
+          "day": 4,
+          "title": "Science General Strategy",
+          "section": "science",
+          "duration": 30,
+          "content": "\n# ACT Science: General Strategy\n\n## Section Overview\n**Enhanced ACT:** 40 questions, 40 minutes (optional for composite)\n**Legacy ACT:** 40 questions, 35 minutes\n\n6-7 passages with tables, graphs, and experiments\n\n## The Truth About ACT Science\n\n**You don't need to know science!**\n\nACT Science is really a reading comprehension test disguised as science. You're tested on:\n- Interpreting data in tables and graphs\n- Understanding experimental design\n- Analyzing conflicting viewpoints\n\n## Question Categories\n\n### 1. Data Questions (40-50%)\nFind specific values in tables/graphs.\n- \"According to Figure 1...\"\n- Go directly to the data source\n\n### 2. Bridge Questions (25-35%)\nCombine information from multiple sources.\n- \"Based on Table 1 AND Figure 2...\"\n- Identify the linking variable\n\n### 3. Big Picture Questions (10-15%)\nRequire understanding the overall experiment.\n- \"Which hypothesis is supported?\"\n- Understand the experimental setup\n\n## Key Strategies\n\n### Don't Read the Passage First\nSkip the intro paragraphs. Go straight to:\n1. Questions\n2. Figures/Tables\n3. Only read text when needed\n\n### Label Your Variables\nWrite what each axis/column represents.\n\n### Trends Over Values\nFocus on patterns: increasing, decreasing, no change.\n    "
+        },
+        {
+          "id": "w1d5",
+          "week": 1,
+          "day": 5,
+          "title": "Comma Rules Deep Dive",
+          "section": "english",
+          "duration": 35,
+          "content": "\n# Mastering Comma Questions\n\nComma questions make up 15-20% of the English section. Master these rules!\n\n## Rule 1: FANBOYS (Compound Sentences)\nUse a comma before FANBOYS when joining two independent clauses.\n\n**For, And, Nor, But, Or, Yet, So**\n\n✓ \"I studied hard, and I passed the test.\"\n✗ \"I studied hard, and passed the test.\" (no comma—\"passed\" isn't a clause)\n\n## Rule 2: Introductory Elements\nUse a comma after introductory words, phrases, or clauses.\n\n✓ \"However, the plan failed.\"\n✓ \"After the long meeting, everyone was tired.\"\n✓ \"Running to catch the bus, she dropped her phone.\"\n\n## Rule 3: Nonessential Clauses\nSet off nonessential (nonrestrictive) information with commas.\n\n**The Bracket Test:** Can you remove it without losing essential meaning?\n\n✓ \"My brother, who lives in Texas, is visiting.\" (nonessential—which brother is clear)\n✗ \"People who live in glass houses shouldn't throw stones.\" (essential—defines which people)\n\n## Rule 4: Lists\nUse commas between three or more items. ACT uses the Oxford comma.\n\n✓ \"I bought apples, oranges, and bananas.\"\n\n## Rule 5: Coordinate Adjectives\nUse commas between adjectives that could be joined by \"and.\"\n\n✓ \"The tall, dark stranger\" (tall AND dark works)\n✗ \"The old brick house\" (old AND brick doesn't work naturally)\n\n## The D&I Test\nTest if a comma creates a **D**ependent + **I**ndependent split:\n- Before the comma: Can it stand alone?\n- After the comma: Can it stand alone?\n- If BOTH can → comma + FANBOYS or semicolon\n- If only ONE can → no comma (usually)\n    "
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "theme": "Core Skills",
+      "description": "Geometry, algebra, and English magic tricks",
+      "days": [
+        {
+          "id": "w2d1",
+          "week": 2,
+          "day": 1,
+          "title": "Geometry Foundations",
+          "section": "math",
+          "duration": 40,
+          "content": "\n# ACT Math: Geometry\n\nGeometry questions make up about 20-25% of the ACT Math section.\n\n## Triangles\n\n### Key Properties\n- Sum of interior angles = 180°\n- Exterior angle = Sum of non-adjacent interior angles\n- Longest side is opposite the largest angle\n\n### Special Triangles\n**30-60-90:** sides in ratio 1 : √3 : 2\n**45-45-90:** sides in ratio 1 : 1 : √2\n\n### Pythagorean Triples\nMemorize these common ratios:\n- 3-4-5 (and multiples: 6-8-10, 9-12-15)\n- 5-12-13\n- 8-15-17\n- 7-24-25\n\n## Circles\n\n### Key Formulas\n- Area = πr²\n- Circumference = 2πr = πd\n- Arc length = (θ/360°) × 2πr\n- Sector area = (θ/360°) × πr²\n\n### Circle Theorems\n- Inscribed angle = (1/2) central angle\n- Tangent line is perpendicular to radius at point of tangency\n- Two tangents from same external point are equal\n\n## Coordinate Geometry\n\n### Distance Formula\nd = √[(x₂ - x₁)² + (y₂ - y₁)²]\n\n### Midpoint Formula\nM = ((x₁ + x₂)/2, (y₁ + y₂)/2)\n\n### Parallel & Perpendicular Lines\n- Parallel lines have SAME slope\n- Perpendicular lines have NEGATIVE RECIPROCAL slopes (m × m₂ = -1)\n    "
+        },
+        {
+          "id": "w2d2",
+          "week": 2,
+          "day": 2,
+          "title": "English Magic Tricks",
+          "section": "english",
+          "duration": 30,
+          "content": "\n# English Section: Magic Tricks\n\nThese patterns appear repeatedly on the ACT. Learn them!\n\n## 1. The Dash Rule\nDashes come in PAIRS unless at the end of a sentence.\n\n✓ \"The dog—a golden retriever—ran away.\"\n✓ \"She finally arrived—exhausted but happy.\"\n\n**Test:** If you see one dash mid-sentence, look for its pair. If there's no pair, the answer is likely wrong.\n\n## 2. The 3-and-1 Rule\nWhen 3 answers share a feature and 1 is different, the different one is often correct.\n\n**Example:**\nA) quickly and efficiently moving\nB) moving quickly and efficiently\nC) moving with quickness and efficiency\nD) moving efficiently and quickly\n\nThree options start with \"moving\" → Choose a different structure (A)\n\n## 3. The DELETE Rule\nWhen \"DELETE the underlined portion\" is an option, give it serious consideration.\n\n**DELETE is often correct when:**\n- The underlined portion is redundant\n- It repeats information already stated\n- The sentence works perfectly without it\n\n## 4. The Who/Whom Rule\n- WHO = subject (he, she, they)\n- WHOM = object (him, her, them)\n\n**Quick Test:** Substitute he/him:\n- \"Who/Whom wrote this?\" → \"He wrote this\" → WHO\n- \"To who/whom should I send this?\" → \"Send to him\" → WHOM\n\n## 5. The Colon Rule\nColons require a complete sentence BEFORE them.\n\n✓ \"I need three things: paper, pen, and patience.\"\n✗ \"I need: paper, pen, and patience.\"\n    "
+        },
+        {
+          "id": "w2d3",
+          "week": 2,
+          "day": 3,
+          "title": "Category 2 Questions",
+          "section": "english",
+          "duration": 35,
+          "content": "\n# Category 2: Edit for Meaning Questions (EMQs)\n\nCategory 2 questions test your ability to improve the effectiveness of writing.\n\n## Question Types\n\n### 1. Transition Questions\nChoose the word/phrase that best connects ideas.\n\n**Strategy:**\n1. Determine the relationship (contrast? addition? cause-effect?)\n2. Eliminate options that don't match\n3. Choose the most precise transition\n\n**Relationships:**\n- Contrast: however, nevertheless, although, despite\n- Addition: furthermore, moreover, also, additionally\n- Cause-Effect: therefore, consequently, thus, as a result\n\n### 2. Word Choice Questions\nSelect the most appropriate word for context.\n\n**Consider:**\n- Tone (formal vs. casual)\n- Precision (vague vs. specific)\n- Connotation (positive vs. negative)\n\n### 3. Sentence Placement Questions\n\"For the sake of logic, Sentence X should be placed...\"\n\n**Strategy:**\n1. Read the sentence carefully\n2. Identify transition words or references\n3. Find where it logically fits (after what it references)\n\n### 4. NOT/EXCEPT Questions\n\"All of the following would be acceptable EXCEPT...\"\n\n**Strategy:**\n1. Test each answer individually\n2. Mark answers as ✓ (acceptable) or ✗ (not acceptable)\n3. The EXCEPT answer is the one that doesn't work\n\n**Tip:** These questions often test comma rules or word choice.\n    "
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "theme": "Deep Practice",
+      "description": "Agreement rules, functions, first mock test",
+      "days": [
+        {
+          "id": "w3d1",
+          "week": 3,
+          "day": 1,
+          "title": "Agreement Rules",
+          "section": "english",
+          "duration": 35,
+          "content": "\n# Agreement Rules\n\nAgreement errors are among the most common on the ACT.\n\n## Subject-Verb Agreement\n\n### Rule 1: Ignore Prepositional Phrases\nThe subject is NEVER in a prepositional phrase.\n\n✓ \"The box of chocolates IS delicious.\" (box is singular)\n✓ \"The students in the class ARE working.\" (students is plural)\n\n**Common prepositions:** of, in, with, at, by, from, to, for, on, between, among\n\n### Rule 2: Compound Subjects\n- Subjects joined by AND = plural verb\n- Subjects joined by OR/NOR = verb agrees with closer subject\n\n✓ \"The dog and cat ARE playing.\"\n✓ \"Neither the teacher nor the students WERE ready.\"\n\n### Rule 3: Indefinite Pronouns\n\n**Always Singular:**\neach, every, either, neither, anyone, everyone, someone, nobody, nothing, one\n\n✓ \"Everyone HAS finished.\"\n✓ \"Each of the students HAS a book.\"\n\n**Always Plural:**\nboth, few, many, several\n\n**Can Be Either:**\nall, any, most, none, some (depends on what they refer to)\n\n## Pronoun-Antecedent Agreement\n\n### Rule 1: Pronouns must match their antecedent in number\n✓ \"Each student should bring HIS OR HER book.\"\n✗ \"Each student should bring THEIR book.\" (traditionally incorrect on ACT)\n\n### Rule 2: Collective nouns are singular\n✓ \"The team celebrated ITS victory.\"\n✓ \"The committee made ITS decision.\"\n    "
+        },
+        {
+          "id": "w3d2",
+          "week": 3,
+          "day": 2,
+          "title": "Functions",
+          "section": "math",
+          "duration": 40,
+          "content": "\n# ACT Math: Functions\n\nFunctions appear frequently on the ACT. Master these concepts!\n\n## Function Basics\n\n### Notation\nf(x) = 2x + 3 means: substitute the input for x\n\nf(5) = 2(5) + 3 = 13\nf(a) = 2a + 3\nf(x+1) = 2(x+1) + 3 = 2x + 5\n\n### Domain and Range\n- **Domain:** All possible INPUT values (x)\n- **Range:** All possible OUTPUT values (y)\n\n**Common domain restrictions:**\n- Can't divide by zero\n- Can't take square root of negative\n- Can't take log of non-positive\n\n## Function Operations\n\n### Composition: (f ∘ g)(x) = f(g(x))\nWork from inside out!\n\nIf f(x) = 2x and g(x) = x + 3:\n(f ∘ g)(5) = f(g(5)) = f(8) = 16\n\n### Inverse Functions: f⁻¹(x)\nThe inverse \"undoes\" the function.\n\nIf f(x) = 2x + 3, find f⁻¹(x):\n1. Replace f(x) with y: y = 2x + 3\n2. Swap x and y: x = 2y + 3\n3. Solve for y: y = (x - 3)/2\n4. f⁻¹(x) = (x - 3)/2\n\n## Transformations\n\nFor f(x):\n- f(x) + k: shifts UP by k\n- f(x) - k: shifts DOWN by k\n- f(x + h): shifts LEFT by h\n- f(x - h): shifts RIGHT by h\n- -f(x): reflects over x-axis\n- f(-x): reflects over y-axis\n- af(x): vertical stretch by a\n- f(ax): horizontal compression by a\n    "
+        },
+        {
+          "id": "w3d3",
+          "week": 3,
+          "day": 3,
+          "title": "Mock Test Preparation",
+          "section": "general",
+          "duration": 20,
+          "content": "\n# Preparing for Your First Mock Test\n\n## Why Take Mock Tests?\n\n1. **Build Stamina:** The real ACT is long (2+ hours). Practice helps build endurance.\n2. **Identify Weaknesses:** See which sections and question types need work.\n3. **Develop Timing:** Learn to pace yourself under real conditions.\n4. **Reduce Anxiety:** Familiarity breeds confidence.\n\n## Mock Test Guidelines\n\n### Before the Test\n- Get a good night's sleep\n- Eat a healthy breakfast\n- Gather materials: pencils, calculator, timer\n- Find a quiet space\n- Turn off your phone\n\n### During the Test\n- Simulate real conditions\n- Use official timing\n- Don't pause between sections (except for scheduled breaks)\n- Bubble your answers on an answer sheet\n\n### After the Test\n- Score your test\n- Review EVERY wrong answer\n- Identify patterns in your mistakes\n- Create a study plan based on results\n\n## Timing Reminders\n\n### Enhanced ACT\n| Section | Questions | Time |\n|---------|-----------|------|\n| English | 50 | 35 min |\n| Math | 45 | 50 min |\n| Reading | 36 | 40 min |\n| Science | 40 | 40 min |\n\n### Legacy ACT\n| Section | Questions | Time |\n|---------|-----------|------|\n| English | 75 | 45 min |\n| Math | 60 | 60 min |\n| Reading | 40 | 35 min |\n| Science | 40 | 35 min |\n    "
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "theme": "Reading & Science",
+      "description": "Reading strategies, science question types",
+      "days": [
+        {
+          "id": "w4d1",
+          "week": 4,
+          "day": 1,
+          "title": "Reading: The Step Method",
+          "section": "reading",
+          "duration": 35,
+          "content": "\n# The Step Method for ACT Reading\n\nA systematic approach to maximize accuracy and efficiency.\n\n## The 5 Steps\n\n### Step 1: Preview the Passage (30 seconds)\n- Read the blurb (introduction text)\n- Note the passage type (Fiction, Social Science, etc.)\n- Glance at paragraph structure\n\n### Step 2: Read Actively (3-4 minutes)\n- Underline key points\n- Note author's tone\n- Mark transitions and main ideas\n- Don't get stuck on difficult parts\n\n### Step 3: Attack Line-Number Questions First\n- These have clear locations\n- Go to the line BEFORE and AFTER for context\n- Avoid answer traps\n\n### Step 4: Answer Main Idea Questions Last\n- Need full passage understanding\n- Eliminate too-narrow or too-broad answers\n- Should reflect the whole passage, not just parts\n\n### Step 5: Eliminate Strategically\nFor each answer, ask:\n- Is this supported by the text?\n- Is this too extreme?\n- Does this answer the actual question?\n\n## Common Traps to Avoid\n\n### The \"Extreme\" Trap\nWords like \"always,\" \"never,\" \"all,\" \"none\" are usually wrong.\n**Prefer:** \"often,\" \"sometimes,\" \"may,\" \"might\"\n\n### The \"Partially True\" Trap\nAn answer that's half right is WRONG.\n\n### The \"Wrong Location\" Trap\nInformation is in the passage—but doesn't answer THIS question.\n\n### The \"Same Words\" Trap\nUses words from the passage but distorts the meaning.\n    "
+        },
+        {
+          "id": "w4d2",
+          "week": 4,
+          "day": 2,
+          "title": "Science Question Categories",
+          "section": "science",
+          "duration": 35,
+          "content": "\n# ACT Science: Question Categories\n\nUnderstanding question types helps you answer faster and more accurately.\n\n## Category 1: Data Questions (40-50%)\n\n### What They Ask\n\"According to Figure 1...\"\n\"Based on Table 2...\"\n\"What was the value when X = 10?\"\n\n### Strategy\n1. Identify the figure/table mentioned\n2. Locate the specific data point\n3. Read the answer directly from the data\n4. Don't overthink!\n\n**Common Mistakes:**\n- Reading the wrong axis\n- Misreading units\n- Looking at wrong figure\n\n## Category 2: Bridge Questions (25-35%)\n\n### What They Ask\n\"Based on Figure 1 AND Table 2...\"\n\"According to the results of both experiments...\"\n\n### Strategy\n1. Find the linking variable between sources\n2. Use Figure 1 to get one value\n3. Use that value in Table 2 to find your answer\n\n**Example:**\nFigure 1 shows temperature vs. time\nTable 2 shows enzyme activity vs. temperature\nQuestion asks: \"At time = 5 min, what is enzyme activity?\"\n→ Use Figure 1 to find temp at 5 min\n→ Use that temp in Table 2 to find activity\n\n## Category 3: Experimental Design (10-15%)\n\n### What They Ask\n\"Why did scientists control X?\"\n\"What was the purpose of Trial 3?\"\n\"Which hypothesis is supported?\"\n\n### Strategy\n1. Understand the experimental setup\n2. Identify independent, dependent, and controlled variables\n3. Think about what the scientist was testing\n\n## Category 4: Prior Knowledge (5-10%)\n\n### What They Ask\nQuestions requiring basic science knowledge\n\n### Topics to Know\n- Basic chemistry (pH, atoms, molecules)\n- Basic physics (force, energy, waves)\n- Basic biology (cells, genetics, evolution)\n- Lab safety and procedures\n    "
+        },
+        {
+          "id": "w4d3",
+          "week": 4,
+          "day": 3,
+          "title": "Math Strategies",
+          "section": "math",
+          "duration": 40,
+          "content": "\n# ACT Math: Strategic Approaches\n\nLearn when and how to use these powerful strategies.\n\n## Strategy 1: Plugging In Numbers (PIN)\n\n### When to Use\n- Variables in answer choices\n- \"General\" questions about relationships\n- Word problems with unknowns\n\n### How to Use\n1. Choose simple numbers (2, 3, 5, 10)\n2. Avoid 0, 1, and numbers in the problem\n3. Plug into the question\n4. Calculate your target answer\n5. Plug into each answer choice\n6. Find the match\n\n**Example:**\nIf x is an even integer, which must be odd?\nA) x + 2  B) 2x  C) x²  D) x + 1\n\nLet x = 2:\nA) 4 (even)  B) 4 (even)  C) 4 (even)  D) 3 (odd) ✓\n\n## Strategy 2: Backsolving\n\n### When to Use\n- Numerical answer choices\n- Question asks for a specific value\n- Algebra looks complicated\n\n### How to Use\n1. Start with choice B or C (middle values)\n2. Plug the answer into the problem\n3. Check if it works\n4. If not, determine if you need higher or lower\n\n**Example:**\nIf 3x + 7 = 22, what is x?\nA) 3  B) 5  C) 7  D) 9\n\nTry B) x = 5: 3(5) + 7 = 22 ✓\n\n## Strategy 3: Eyeballing (for Geometry)\n\n### When to Use\n- Diagrams drawn to scale\n- Questions about length, area, or angle estimates\n\n### How to Use\n1. Compare unknown to known values\n2. Eliminate obviously wrong answers\n3. Make educated estimates\n\n## Strategy 4: The Calculator\n\n### Know Your Calculator\n- Solve equations directly\n- Graph functions\n- Find intersections\n- Calculate statistics\n    "
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "theme": "Advanced Skills",
+      "description": "Advanced science, speed drills",
+      "days": [
+        {
+          "id": "w5d1",
+          "week": 5,
+          "day": 1,
+          "title": "Advanced Science Skills",
+          "section": "science",
+          "duration": 40,
+          "content": "\n# Advanced Science: Conflicting Viewpoints\n\nThese passages present multiple hypotheses or viewpoints.\n\n## Understanding the Format\n\n### Structure\n- Introduction: Background information\n- Scientist 1/Student 1: First viewpoint\n- Scientist 2/Student 2: Opposing viewpoint\n- Sometimes 3+ viewpoints\n\n### Key Differences from Data Passages\n- More reading required\n- Focus on understanding arguments\n- Questions compare and contrast viewpoints\n\n## Attack Strategy\n\n### Step 1: Read the Introduction\nUnderstand what question is being debated.\n\n### Step 2: Summarize Each Viewpoint\nAfter reading each viewpoint, write 1 sentence:\n\"Scientist 1 believes ___ because ___\"\n\"Scientist 2 believes ___ because ___\"\n\n### Step 3: Identify Key Differences\nWhat do they disagree about?\n- The cause of something?\n- The interpretation of data?\n- The predicted outcome?\n\n### Step 4: Answer Viewpoint-Specific Questions First\n\"According to Scientist 1...\"\nThese are straightforward—just find the information.\n\n### Step 5: Tackle Comparison Questions\n\"Both scientists would agree...\"\n\"Scientist 1, but NOT Scientist 2, would...\"\n\n## Common Question Types\n\n### Agreement Questions\nFind common ground between viewpoints.\n\n### New Information Questions\n\"If new evidence showed X, how would it affect...?\"\nThink about what each scientist would say.\n\n### Weakness Questions\n\"Which finding would weaken Scientist 2's argument?\"\nLook for contradictions to their main claim.\n    "
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "theme": "Speed & Accuracy",
+      "description": "Speed drills, trap avoidance",
+      "days": [
+        {
+          "id": "w6d1",
+          "week": 6,
+          "day": 1,
+          "title": "English Speed Drills",
+          "section": "english",
+          "duration": 30,
+          "content": "\n# Speed Strategies for English\n\nMaster these techniques to move faster through the English section.\n\n## Timing Goals\n\n### Enhanced ACT\n- 35 minutes for 50 questions\n- ~40 seconds per question\n- ~7 minutes per passage\n\n### Legacy ACT\n- 45 minutes for 75 questions\n- ~36 seconds per question\n- ~9 minutes per passage\n\n## Speed Techniques\n\n### 1. Read Efficiently\n- Don't read every word in unchanged portions\n- Focus on underlined sections and surrounding context\n- Move quickly through easy questions\n\n### 2. Recognize Patterns Instantly\nTrain yourself to immediately identify:\n- Comma questions\n- Agreement questions\n- Wordiness issues\n- Transition problems\n\n### 3. Use Process of Elimination\nFor every question:\n1. Eliminate obviously wrong answers (10 seconds)\n2. Compare remaining choices (10 seconds)\n3. Select best answer (5 seconds)\n\n### 4. Don't Second-Guess\n- Trust your first instinct\n- Only change answers with good reason\n- Move on quickly\n\n### 5. Skip and Return\n- Don't spend more than 1 minute on any question\n- Mark difficult questions\n- Return if time permits\n\n## Common Time Wasters\n\n- Re-reading passages unnecessarily\n- Overthinking simple questions\n- Changing answers without reason\n- Getting stuck on one question\n    "
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "theme": "Advanced Topics",
+      "description": "Advanced math, weak point training",
+      "days": [
+        {
+          "id": "w7d1",
+          "week": 7,
+          "day": 1,
+          "title": "Advanced Math Skills",
+          "section": "math",
+          "duration": 45,
+          "content": "\n# Advanced ACT Math Topics\n\nThese topics appear on harder questions (50-60).\n\n## Complex Numbers\n\n### Basics\ni = √(-1)\ni² = -1\ni³ = -i\ni⁴ = 1 (then pattern repeats)\n\n### Finding Powers of i\nDivide exponent by 4, use remainder:\n- Remainder 0: i^n = 1\n- Remainder 1: i^n = i\n- Remainder 2: i^n = -1\n- Remainder 3: i^n = -i\n\n### Operations\n(a + bi) + (c + di) = (a+c) + (b+d)i\n(a + bi)(c + di) = (ac-bd) + (ad+bc)i\n\n## Matrices\n\n### Addition/Subtraction\nAdd corresponding elements (matrices must be same size)\n\n### Multiplication\nRow × Column\n[a b][e f]   [ae+bg  af+bh]\n[c d][g h] = [ce+dg  cf+dh]\n\n### Determinant (2×2)\n|a b|\n|c d| = ad - bc\n\n## Logarithms\n\n### Definition\nlog_a(x) = y means a^y = x\n\n### Properties\n- log(xy) = log(x) + log(y)\n- log(x/y) = log(x) - log(y)\n- log(x^n) = n·log(x)\n- log_a(a) = 1\n- log_a(1) = 0\n\n## Sequences & Series\n\n### Arithmetic\n- nth term: a_n = a_1 + (n-1)d\n- Sum: S_n = n(a_1 + a_n)/2\n\n### Geometric\n- nth term: a_n = a_1 × r^(n-1)\n- Sum: S_n = a_1(1 - r^n)/(1 - r)\n    "
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "theme": "Final Review",
+      "description": "Comprehensive review, final mock test",
+      "days": [
+        {
+          "id": "w8d1",
+          "week": 8,
+          "day": 1,
+          "title": "Final Review: English",
+          "section": "english",
+          "duration": 30,
+          "content": "\n# English Section: Final Review\n\n## Quick Reference: Top Rules\n\n### Commas\n1. FANBOYS between independent clauses\n2. After introductory elements\n3. Around nonessential clauses\n4. Between items in a list\n5. Between coordinate adjectives\n\n### Agreement\n1. Subject-verb (ignore prepositional phrases)\n2. Pronoun-antecedent (number match)\n3. Tense consistency\n\n### Punctuation\n1. Semicolons join independent clauses\n2. Colons require complete sentence before\n3. Apostrophes: possession vs. contraction\n\n### Word Choice\n1. Economy: shorter is usually better\n2. Precision: specific > vague\n3. Tone: match the passage style\n\n## Final Tips\n\n### Day Before\n- Review flashcards\n- Light practice only\n- Get good sleep\n\n### Test Day\n- Read carefully but efficiently\n- Trust your preparation\n- Don't panic on hard questions\n- Review if time permits\n\n### Mindset\n- You've prepared well\n- You know the strategies\n- Stay confident and focused\n    "
+        }
+      ]
+    }
+  ]
+}
